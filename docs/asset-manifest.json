@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Diffusion4D/static/css/main.38d57f55.css",
-    "main.js": "/Diffusion4D/static/js/main.00887033.js",
+    "main.js": "/Diffusion4D/static/js/main.26c91385.js",
     "static/js/787.4abed053.chunk.js": "/Diffusion4D/static/js/787.4abed053.chunk.js",
+    "static/media/dataset_web.mp4": "/Diffusion4D/static/media/dataset_web.e71db6df79dd170748f9.mp4",
     "static/media/edit3.mp4": "/Diffusion4D/static/media/edit3.327bf07f714bde5d75fc.mp4",
     "static/media/edit2.mp4": "/Diffusion4D/static/media/edit2.c1280c790f01d9fb3b76.mp4",
     "static/media/edit1.mp4": "/Diffusion4D/static/media/edit1.73cbafe9892571f4a767.mp4",
@@ -37,11 +38,11 @@
     "static/media/revicons.woff": "/Diffusion4D/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Diffusion4D/index.html",
     "main.38d57f55.css.map": "/Diffusion4D/static/css/main.38d57f55.css.map",
-    "main.00887033.js.map": "/Diffusion4D/static/js/main.00887033.js.map",
+    "main.26c91385.js.map": "/Diffusion4D/static/js/main.26c91385.js.map",
     "787.4abed053.chunk.js.map": "/Diffusion4D/static/js/787.4abed053.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38d57f55.css",
-    "static/js/main.00887033.js"
+    "static/js/main.26c91385.js"
   ]
 }
