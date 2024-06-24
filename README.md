@@ -2,7 +2,7 @@
 
 The official implementation of work "Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models".
 
-[[Project Page]](https://vita-group.github.io/Diffusion4D/) | [[Arxiv]](https://arxiv.org/abs/2405.16645) | [[Video (Youtube)]](https://www.youtube.com/watch?v=XJT-cMt_xVo) | [[Video (results)]](https://www.youtube.com/watch?v=sg7uUUfpM-c) | [[视频 (Bilibili)]](https://b23.tv/ojVe6Uv) | [[Huggingface Dataset]](https://huggingface.co/datasets/hw-liang/Diffusion4D)
+[[Project Page]](https://vita-group.github.io/Diffusion4D/) | [[Arxiv]](https://arxiv.org/abs/2405.16645) | [[Video (Youtube)]](https://www.youtube.com/watch?v=XJT-cMt_xVo) | [[视频 (Bilibili)]](https://b23.tv/ojVe6Uv) | [[Huggingface Dataset]](https://huggingface.co/datasets/hw-liang/Diffusion4D)
 
 # Image-to-4D
 ![demo_img](https://github.com/VITA-Group/Diffusion4D/assets/28423825/ae31760b-28a6-46dc-86a3-d4072a40a003)
@@ -25,7 +25,7 @@ The official implementation of work "Diffusion4D: Fast Spatial-temporal Consiste
 We collect a large-scale, high-quality dynamic 3D(4D) dataset sourced from the vast 3D data corpus of [Objaverse-1.0](https://objaverse.allenai.org/objaverse-1.0/) and [Objaverse-XL](https://github.com/allenai/objaverse-xl). We apply a series of empirical rules to curate the source dataset. You can find more details in our [paper](https://arxiv.org/abs/2405.16645). In this part, we will release the selected 4D assets, including:
 1. Selected high-quality 4D object ID.
 2. A render script using Blender, providing optional settings to render your personalized data.
-3. [Rendered 4D images](https://huggingface.co/datasets/hw-liang/Diffusion4D/tree/main/objaverse1.0_curated) by our team to save you GPU time. 
+3. [Rendered 4D images](https://huggingface.co/datasets/hw-liang/Diffusion4D/tree/main/objaverse1.0_curated) by our team to save you GPU time. With 8 GPUs and a total of 16 threads, it took **5.5 days** to render the curated objaverse-1.0 dataset.
 
 ### 4D Dataset ID/Metadata
 We first collect 365k dynamic 3D assets from Objaverse-1.0 (42k) and Objaverse-xl (323k). Then we curate a high-quality subset to train our models. 
