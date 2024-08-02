@@ -5,7 +5,10 @@ The official implementation of work "Diffusion4D: Fast Spatial-temporal Consiste
 [[Project Page]](https://vita-group.github.io/Diffusion4D/) | [[Arxiv]](https://arxiv.org/abs/2405.16645) | [[Video (Youtube)]](https://www.youtube.com/watch?v=XJT-cMt_xVo) | [[视频 (Bilibili)]](https://b23.tv/ojVe6Uv) | [[Huggingface Dataset]](https://huggingface.co/datasets/hw-liang/Diffusion4D)
 
 # Image-to-4D
-![demo_img](https://github.com/VITA-Group/Diffusion4D/assets/28423825/ae31760b-28a6-46dc-86a3-d4072a40a003)
+![demo_img_1](https://github.com/user-attachments/assets/3da5f105-4ed4-499a-bb95-8a79acb8cf1d)
+![demo_img_2](https://github.com/user-attachments/assets/2d0cdfb9-55a3-46bc-a583-1bc2bb590f4e)
+![demo_img_3](https://github.com/user-attachments/assets/9679468c-05ec-4b3c-a8b8-5c718737afbc)
+
 # Text-to-4D
 ![demo_text](https://github.com/user-attachments/assets/020b0fb9-ca8a-483f-8105-ac863727f5c6)
 # 3D-to-4D
