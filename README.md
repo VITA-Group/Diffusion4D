@@ -12,7 +12,8 @@ The official implementation of work "Diffusion4D: Fast Spatial-temporal Consiste
 # Text-to-4D
 ![demo_text](https://github.com/user-attachments/assets/020b0fb9-ca8a-483f-8105-ac863727f5c6)
 # 3D-to-4D
-![demo_3d](https://github.com/VITA-Group/Diffusion4D/assets/28423825/7826df00-b74e-412d-912f-2127340c7cee)
+![3d_1](https://github.com/user-attachments/assets/4fd7f4b4-ddcc-41f7-b113-9e691aecf0ac)
+![3d_2](https://github.com/user-attachments/assets/c83fa84a-cdf0-4742-a347-6e5bc4ab82bb)
 
 
 # News
