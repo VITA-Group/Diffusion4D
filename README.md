@@ -34,7 +34,7 @@ We collect a large-scale, high-quality dynamic 3D(4D) dataset sourced from the v
 ### 4D Dataset ID/Metadata
 We first collect 365k dynamic 3D assets from Objaverse-1.0 (42k) and Objaverse-xl (323k). Then we curate a high-quality subset to train our models. 
 
-The uncurated 42k IDs of all the animated objects from objaverse-1.0 are in `rendering/src/ObjV1_all_animated.txt`. The curated ~11k IDs of the animated objects from objaverse-1.0 are in  `rendering/src/ObjV1_curated.txt`. 
+The uncurated 42k IDs of all the animated objects from objaverse-1.0 are in `rendering/src/ObjV1_all_animated.txt`. The curated ~11k IDs of the animated objects from objaverse-1.0 are in  `rendering/src/ObjV1_curated.txt`.  The curated ~71k IDs of the animated objects from objaverse-xl are in  `rendering/src/ObjXl_curated.txt`. 
 
 Metadata of animated objects (323k) from objaverse-xl can be found in [huggingface](https://huggingface.co/datasets/hw-liang/Diffusion4D/blob/main/meta_xl_animation_tot.csv). We also release the metadata of all successfully rendered objects from [objaverse-xl's Github subset](https://huggingface.co/datasets/hw-liang/Diffusion4D/blob/main/meta_xl_tot.csv).
 
